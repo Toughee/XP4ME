@@ -1,7 +1,9 @@
-## Xp4 me
-
+## Xp4me
 
 App description
+
+[Link](url) and ![Image](src)
+
 
 ### How to use
 
@@ -20,10 +22,16 @@ Syntax highlighted code block
 1. Choose a category
 2. 
 
+### Categories available:
+
+- 
+-
+-
+-
+-
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
