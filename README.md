@@ -1,29 +1,21 @@
-## Xp4 me
-
+# XP4me
 
 App description
 
-### How to use
+![Image](src)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## How to use this webapp
 
-# Header 1
-## Header 2
-### Header 3
+1. Enter your zipcode
+2. Choose a category
+3. 
+4. Enter the website and apply 
 
-- Bulleted
-- List
+### Categories available:
 
-1. Choose a category
-2. 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+- Clergy work
+- Environmental
+- Law
+- Medicine
+- Marine Biology
