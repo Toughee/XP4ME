@@ -5,46 +5,52 @@
 <head>
 
     <meta charset="utf-8">
-    <title>Home</title>
+    <title>XP4ME</title>
     <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
 
 </head>
 
 <body>
 
-    <h1> Xp4me</h1>
+    <h1>XP4ME</h1>
 
-    <h2> Volunteer searcher app</h2>
+    <div class="ident">
+        <h2>Volunteer searcher app</h2>
 
-    <p> App instructions </p>
+        <p>App instructions: Enter your zipcode, choose a category, wait for everything to process, enter the website and apply</p>
 
-    <button>
-        Gain some XP
-    </button>
+        <form action="/xpsearch.php">
+            <fieldset>
+                <legend>Gain some XP:</legend>
+                Enter your zipcode:
+                <br>
+                <input type="number" name="Zipcode" value="Zipcode">
+                <br>
+                <br> Next, Choose a category you wish to learn more about
+                <br>
+                <select>
+                    <option value="0">Categories</option>
+                    <option value="Clergy-work">Clergy work</option>
+                    <option value="Environmental">Environmental</option>
+                    <option value="Law">Law</option>
+                    <option value="Medicine">Medicine</option>
+                    <option value="Marine-Biology">Marine Biology</option>
+                </select>
+                <br>
+                <br> Now press submit to search for an opportunity nearby
+                <br>
+                <br>
+                <input type="submit" value="Submit">
+            </fieldset>
+        </form>
 
-    <!-- 
+</div>
 
-	Enter Zipcode
-
-		Next, choose a category
-
-            </li>
-			Programming
-
-			Reception
-
-			International Languages
-
-			Law
-
-			Medicine
-            </li>
-
-<h1> You've chosen  []. 
+        <!--
+<h3> You've chosen  [].  </h3>
 
 <p> Based on your choice, here's a list of places you could volunteer:
-
-<>
 
 Data portal
 
@@ -55,6 +61,9 @@ options
 make a flow chart for volunteer options
 
 provide a final link for available options using zipcode data
+
+else 
+    We're sorry, but there's no volunteer options near you. Please try somewhere else.
 
 -->
 
