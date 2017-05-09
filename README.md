@@ -1,10 +1,5 @@
 # XP4me
 
-App description
-
-![Image](src)
-
-
 ## How to use this webapp
 
 1. Enter your zipcode
