@@ -1,11 +1,13 @@
-## XP4me
+
+# XP4me
+
 
 App description
 
 ![Image](src)
 
+## How to use this webapp
 
-# How to use this webapp
 
 1. Enter your zipcode
 2. Choose a category
@@ -18,4 +20,5 @@ App description
 - Environmental
 - Law
 - Medicine
-- Biology
+- Marine Biology
+
