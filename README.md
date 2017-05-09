@@ -18,4 +18,4 @@ App description
 - Environmental
 - Law
 - Medicine
-- Marine Biology
+- Biology
