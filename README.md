@@ -1,9 +1,7 @@
 
-# XP4ME
+![Image](https://raw.githubusercontent.com/Toughee/XP4ME/master/imgs/xp4me.png)
 
 Js app for searching for volunteer positions near your location.
-
-![Image](src)
 
 ## How to use this webapp
 
