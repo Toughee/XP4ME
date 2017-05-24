@@ -22,7 +22,7 @@ footer {
 
 button {
      border: 1px solid;
-     background: #e61c26;    
+     background: #ffc50b;    
 }
 
  /*
@@ -36,7 +36,8 @@ button {
      -moz-border-radius: 12px 0px 200px 0px;
      -webkit-border-radius: 12px 0px 200px 0px;
      border: 6px solid #000000;
-     background: #e61c26;
+     padding: 0.5px 0px 0.5px 5px; 
+     background: #ffc50b;
  }
  h2 {
      font-family: Verano;

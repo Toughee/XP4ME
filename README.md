@@ -1,4 +1,9 @@
-# XP4me
+
+# XP4ME
+
+Js app for searching for volunteer positions near your location.
+
+![Image](src)
 
 ## How to use this webapp
 
@@ -13,4 +18,4 @@
 - Environmental
 - Law
 - Medicine
-- Biology
+- Marine Biology
