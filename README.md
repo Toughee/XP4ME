@@ -1,7 +1,7 @@
 
-# XP4me
+# XP4ME
 
-App description
+Js app for searching for volunteer positions near your location.
 
 ![Image](src)
 
