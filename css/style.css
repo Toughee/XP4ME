@@ -17,14 +17,14 @@ footer {
     text-align: right;
     color: white;
     text-decoration: none;
-    padding: 160px 25px 0px 0px;
+    padding: 500px 25px 0px 0px;
+    top: 50px;
 }
-
 button {
      border: 1px solid;
-     background: #ffc50b;    
+     background: #ffc50b;
+     font-family: 'Baloo Bhaina';    
 }
-
  /*
 ========	Font	========
 */
@@ -38,14 +38,18 @@ button {
      border: 6px solid #000000;
      padding: 0.5px 0px 0.5px 5px; 
      background: #ffc50b;
+     font-size: 50px;
  }
  h2 {
-     font-family: Verano;
-     font-size: 30px;
+     font-family: 'Baloo Bhaina';
+     font-size: 35px;
  }
  p {
      font-family: Verano;
      font-size: 25px;
-     text-decoration: underline;
-     padding-left: 37px;
- }
+     padding-left: 10px;
+}
+.ident {
+    padding: 25px;
+    position: fixed;
+}
